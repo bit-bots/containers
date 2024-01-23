@@ -1,5 +1,7 @@
 # Bit-Bots containers
 
+## Archived ⚠️ This repository has been moved [here](https://github.com/bit-bots/bitbots_meta)!
+
 This repository contains the necessary files to build the containers used by the bit-bots.
 
 ## HLVS
